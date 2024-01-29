@@ -1,0 +1,3310 @@
+# depslib dependency file v1.0
+1693417921 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1693417933 c:\users\sebastian\desktop\juan\dev\sistema de gestion\cargarcadena.h
+
+1695998425 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1695998391 c:\users\sebastian\desktop\juan\dev\sistema de gestion\cliente.h
+	"Direccion.h"
+
+1693415239 c:\users\sebastian\desktop\juan\dev\sistema de gestion\direccion.h
+	<cstring>
+
+1698246435 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+
+1697840868 c:\users\sebastian\desktop\juan\dev\sistema de gestion\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+
+1698246212 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClientesMenu.h"
+
+1698245827 c:\users\sebastian\desktop\juan\dev\sistema de gestion\clientemenu.h
+	"ClienteManager.h"
+
+1693941070 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1695998089 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1695995280 c:\users\sebastian\desktop\juan\dev\sistema de gestion\fecha.h
+
+1695999313 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\main.cpp
+	<iostream>
+	"Programa.h"
+
+1695999366 c:\users\sebastian\desktop\juan\dev\sistema de gestion\programa.h
+
+1698241705 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\ajustesmenu.cpp
+	<iostream>
+	"AjustesMenu.h"
+
+1698241578 c:\users\sebastian\desktop\juan\dev\sistema de gestion\ajustesmenu.h
+
+1698243885 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\operacionesmenu.cpp
+	<iostream>
+	"OperacionesMenu.h"
+	"ListarOperacionesMenu.h"
+
+1698240920 c:\users\sebastian\desktop\juan\dev\sistema de gestion\operacionesmenu.h
+
+1698241520 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1698241411 c:\users\sebastian\desktop\juan\dev\sistema de gestion\tesoreriamenu.h
+
+1698241725 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionesMenu.h"
+	"TipoPrestamoMenu.h"
+	"TesoreriaMenu.h"
+	"AjustesMenu.h"
+
+1698241170 c:\users\sebastian\desktop\juan\dev\sistema de gestion\tipoprestamomenu.h
+
+1698246331 c:\users\sebastian\desktop\juan\dev\sistema de gestion\listarclientesmenu.h
+	"ClienteManager.h"
+
+1698244049 c:\users\sebastian\desktop\juan\dev\sistema de gestion\listaroperacionesmenu.h
+
+1698243736 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\tipoprestamomenu.cpp
+	<iostream>
+	"TipoPrestamoMenu.h"
+	"ListarTipoPrestamosMenu.h"
+
+1698244065 c:\users\sebastian\desktop\juan\dev\sistema de gestion\listartipoprestamosmenu.h
+
+1698244278 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\listaroperacionesmenu.cpp
+	<iostream>
+	"ListarOperacionesMenu.h"
+
+1698244331 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\listartipoprestamosmenu.cpp
+	<iostream>
+	"ListarTipoPrestamosMenu.h"
+
+1697838815 c:\users\sebastian\desktop\juan\dev\sistema de gestion\clientearchivo.h
+	"Cliente.h"
+
+1697841276 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698246510 source:c:\users\sebastian\desktop\juan\dev\sistema de gestion\listarclientesmenu.cpp
+	<iostream>
+	"ListarClientesMenu.h"
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\ajustesmenu.cpp
+	<iostream>
+	"AjustesMenu.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\ajustesmenu.h
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\cargarcadena.h
+
+1698293126 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1698293122 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\cliente.h
+	"Direccion.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\direccion.h
+	<cstring>
+
+1698294387 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1698294061 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<cstring>
+
+1698349649 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\clientearchivo.h
+	"Cliente.h"
+
+1698259177 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClientesMenu.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\clientemenu.h
+	"ClienteManager.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\listarclientesmenu.h
+	"ClienteManager.h"
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\fecha.h
+
+1698258088 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\listarclientesmenu.cpp
+	<iostream>
+	"ListarClientesMenu.h"
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\listaroperacionesmenu.cpp
+	<iostream>
+	"ListarOperacionesMenu.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\listaroperacionesmenu.h
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\listartipoprestamosmenu.cpp
+	<iostream>
+	"ListarTipoPrestamosMenu.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\listartipoprestamosmenu.h
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\main.cpp
+	<iostream>
+	"Programa.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\programa.h
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\operacionesmenu.cpp
+	<iostream>
+	"OperacionesMenu.h"
+	"ListarOperacionesMenu.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\operacionesmenu.h
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionesMenu.h"
+	"TipoPrestamoMenu.h"
+	"TesoreriaMenu.h"
+	"AjustesMenu.h"
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\tipoprestamomenu.h
+
+1698246749 c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\tesoreriamenu.h
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1698246749 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\tipoprestamomenu.cpp
+	<iostream>
+	"TipoPrestamoMenu.h"
+	"ListarTipoPrestamosMenu.h"
+
+1698349658 source:c:\users\angel\downloads\sistema-de-gestion-master\sistema-de-gestion-master\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"AjustesMenu.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\ajustesmenu.h
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cargarcadena.h
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1699555175 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<cstring>
+
+1699461907 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461850 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarclientesmenu.h
+	"ClienteManager.h"
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\fecha.h
+
+1699461855 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1699451397 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listaroperacionesmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listaroperacionesmenu.h
+
+1698969042 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listartipoprestamosmenu.cpp
+	<iostream>
+	"ListarTipoPrestamosMenu.h"
+
+1698968898 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listartipoprestamosmenu.h
+	"PrestamoManager.h"
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\programa.h
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionesmenu.cpp
+	<iostream>
+	"OperacionesMenu.h"
+	"ListarOperacionesMenu.h"
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionesmenu.h
+
+1699451474 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"TesoreriaMenu.h"
+	"AjustesMenu.h"
+
+1698350997 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\tipoprestamomenu.h
+
+1698350998 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1698350997 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\tipoprestamomenu.cpp
+	<iostream>
+	"TipoPrestamoMenu.h"
+	"ListarTipoPrestamosMenu.h"
+
+1699469009 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+
+1699462153 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamo.h
+
+1698534200 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1698533526 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699530515 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1699462728 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+
+1699451859 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1699448059 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarprestamosmenu.cpp
+	<iostream>
+	"ListarPrestamosMenu.h"
+
+1699448035 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarprestamosmenu.h
+	"PrestamoManager.h"
+
+1699450318 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+
+1699451003 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+
+1699451109 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1699450629 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1699454478 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1699456556 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455023 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1699454412 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699463479 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451811 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1699453504 source:d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1699453718 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	<cstring>
+
+1699461850 d:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1698350998 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"AjustesMenu.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\ajustesmenu.h
+
+1698350998 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cargarcadena.h
+
+1698350998 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1699568487 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1699461907 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699568943 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<cstring>
+
+1699461850 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1698350998 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1698350998 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\fecha.h
+
+1699461855 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1699454412 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454478 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1699453718 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	<cstring>
+
+1699451003 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+
+1699450629 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1699463479 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451811 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1699462728 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+
+1699462153 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamo.h
+
+1698533526 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1698350998 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\programa.h
+
+1699450318 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+
+1699451109 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1699453504 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1699456556 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455023 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1699469009 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+
+1698534200 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1699530515 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1699451859 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1699451474 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"TesoreriaMenu.h"
+	"AjustesMenu.h"
+
+1698350998 e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1699568967 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1699568983 source:e:\utn\lab ii\proyecto final\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156500 source:c:\users\usuario\downloads\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1700140822 c:\users\usuario\downloads\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1698350998 source:c:\users\usuario\downloads\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 c:\users\usuario\downloads\sistema-de-prestamo-main\cargarcadena.h
+
+1700003866 source:c:\users\usuario\downloads\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700003826 c:\users\usuario\downloads\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 c:\users\usuario\downloads\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1700004266 source:c:\users\usuario\downloads\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 c:\users\usuario\downloads\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700169688 source:c:\users\usuario\downloads\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700003742 c:\users\usuario\downloads\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1700156516 source:c:\users\usuario\downloads\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 c:\users\usuario\downloads\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 c:\users\usuario\downloads\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1698350998 source:c:\users\usuario\downloads\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1700000258 source:c:\users\usuario\downloads\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1699969510 c:\users\usuario\downloads\sistema-de-prestamo-main\fecha.h
+
+1700156530 source:c:\users\usuario\downloads\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515325 source:c:\users\usuario\downloads\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 c:\users\usuario\downloads\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1700517523 c:\users\usuario\downloads\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+
+1700532795 c:\users\usuario\downloads\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1699450630 c:\users\usuario\downloads\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1700156558 source:c:\users\usuario\downloads\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 c:\users\usuario\downloads\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1699999190 c:\users\usuario\downloads\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700513079 c:\users\usuario\downloads\sistema-de-prestamo-main\prestamo.h
+
+1698533526 c:\users\usuario\downloads\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1698350998 source:c:\users\usuario\downloads\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 c:\users\usuario\downloads\sistema-de-prestamo-main\programa.h
+
+1700532797 source:c:\users\usuario\downloads\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1700495465 source:c:\users\usuario\downloads\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1700532832 source:c:\users\usuario\downloads\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700517667 source:c:\users\usuario\downloads\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 c:\users\usuario\downloads\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1700513079 source:c:\users\usuario\downloads\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:c:\users\usuario\downloads\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700156588 source:c:\users\usuario\downloads\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 c:\users\usuario\downloads\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:c:\users\usuario\downloads\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1698350998 c:\users\usuario\downloads\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:c:\users\usuario\downloads\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1700170236 source:c:\users\usuario\downloads\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1698350998 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"AjustesMenu.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\ajustesmenu.h
+
+1698350998 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\cargarcadena.h
+
+1699587444 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1699568488 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1698350998 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1699592494 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1699587848 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+
+1699461908 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1698350998 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1698350998 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\fecha.h
+
+1699461856 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1699454414 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1699453720 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	<cstring>
+
+1699451004 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+
+1699450630 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1699586353 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1699586975 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1699579184 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamo.h
+
+1698533526 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1698350998 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\programa.h
+
+1699450320 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+
+1699451110 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1699453506 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1699456558 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1699587392 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+
+1698534200 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1699591657 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1699451860 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1699451476 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"TesoreriaMenu.h"
+	"AjustesMenu.h"
+
+1698350998 c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:c:\users\angel\downloads\sistema-de-prestamo-main (2)\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1700156500 source:c:\users\compaq\downloads\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1700140822 c:\users\compaq\downloads\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1698350998 source:c:\users\compaq\downloads\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 c:\users\compaq\downloads\sistema-de-prestamo-main\cargarcadena.h
+
+1700003866 source:c:\users\compaq\downloads\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700003826 c:\users\compaq\downloads\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 c:\users\compaq\downloads\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1700004266 source:c:\users\compaq\downloads\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 c:\users\compaq\downloads\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700169688 source:c:\users\compaq\downloads\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700003742 c:\users\compaq\downloads\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1700156516 source:c:\users\compaq\downloads\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 c:\users\compaq\downloads\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 c:\users\compaq\downloads\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1698350998 source:c:\users\compaq\downloads\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108898 source:c:\users\compaq\downloads\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108876 c:\users\compaq\downloads\sistema-de-prestamo-main\fecha.h
+
+1700156530 source:c:\users\compaq\downloads\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:c:\users\compaq\downloads\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 c:\users\compaq\downloads\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1701211292 c:\users\compaq\downloads\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1701279014 c:\users\compaq\downloads\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1699450630 c:\users\compaq\downloads\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1700156558 source:c:\users\compaq\downloads\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 c:\users\compaq\downloads\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1699999190 c:\users\compaq\downloads\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700513080 c:\users\compaq\downloads\sistema-de-prestamo-main\prestamo.h
+
+1698533526 c:\users\compaq\downloads\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1701106228 source:c:\users\compaq\downloads\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 c:\users\compaq\downloads\sistema-de-prestamo-main\programa.h
+
+1701280609 source:c:\users\compaq\downloads\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1700495466 source:c:\users\compaq\downloads\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1701280516 source:c:\users\compaq\downloads\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700591864 source:c:\users\compaq\downloads\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 c:\users\compaq\downloads\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1700513080 source:c:\users\compaq\downloads\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:c:\users\compaq\downloads\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700777782 source:c:\users\compaq\downloads\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:c:\users\compaq\downloads\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 c:\users\compaq\downloads\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:c:\users\compaq\downloads\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1698350998 c:\users\compaq\downloads\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:c:\users\compaq\downloads\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1700001622 source:c:\users\usuario\downloads\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 c:\users\usuario\downloads\sistema-de-prestamo-main\cuota.h
+
+1699844691 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"AjustesMenu.h"
+
+1699844342 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1698350998 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\cargarcadena.h
+
+1698350998 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1699844734 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1699844835 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1699844830 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1699461908 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1699755948 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\cuota.h
+
+1698350998 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1698350998 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1698350998 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\fecha.h
+
+1699844949 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1699454414 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1699827006 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+
+1699800392 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1699799492 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamo.h
+
+1699450630 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1698533526 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699823632 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1699586352 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1698350998 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1698350998 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\programa.h
+
+1699825232 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1699451110 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1699800044 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1699825240 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1699823780 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1699451860 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1699451476 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"TesoreriaMenu.h"
+	"AjustesMenu.h"
+
+1698350998 c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1699844697 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1699842241 source:c:\users\angel\downloads\asd\sistema-de-prestamo-main (2) (1)\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156500 source:d:\utn\lab ii\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1700140822 d:\utn\lab ii\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1700003826 d:\utn\lab ii\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700003742 d:\utn\lab ii\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:d:\utn\lab ii\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main\cargarcadena.h
+
+1700003866 source:d:\utn\lab ii\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:d:\utn\lab ii\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1700169688 source:d:\utn\lab ii\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:d:\utn\lab ii\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 d:\utn\lab ii\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:d:\utn\lab ii\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 d:\utn\lab ii\sistema-de-prestamo-main\cuota.h
+
+1698350998 source:d:\utn\lab ii\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108896 source:d:\utn\lab ii\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108875 d:\utn\lab ii\sistema-de-prestamo-main\fecha.h
+
+1700156530 source:d:\utn\lab ii\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:d:\utn\lab ii\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 d:\utn\lab ii\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1700686423 d:\utn\lab ii\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1700763910 d:\utn\lab ii\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 d:\utn\lab ii\sistema-de-prestamo-main\prestamo.h
+
+1699450630 d:\utn\lab ii\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1698533526 d:\utn\lab ii\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699999190 d:\utn\lab ii\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700156558 source:d:\utn\lab ii\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 d:\utn\lab ii\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106227 source:d:\utn\lab ii\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 d:\utn\lab ii\sistema-de-prestamo-main\programa.h
+
+1700763902 source:d:\utn\lab ii\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1700495466 source:d:\utn\lab ii\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1701110755 source:d:\utn\lab ii\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700591864 source:d:\utn\lab ii\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 d:\utn\lab ii\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1700513080 source:d:\utn\lab ii\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:d:\utn\lab ii\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700777780 source:d:\utn\lab ii\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:d:\utn\lab ii\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 d:\utn\lab ii\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:d:\utn\lab ii\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:d:\utn\lab ii\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1698350998 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1698350998 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\cargarcadena.h
+
+1700003866 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700003826 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1700004266 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1698350998 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700156967 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700003742 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1700156514 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\cuota.h
+
+1698350998 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1700000258 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1699969510 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\fecha.h
+
+1700156528 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700156544 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1700017316 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+
+1700019756 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1699799492 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamo.h
+
+1699450630 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1698533526 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699999190 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700156557 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1698350998 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137444 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\programa.h
+
+1700019754 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1699451110 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1700156574 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1699825240 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700157022 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156587 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700156600 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1698350998 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\tesoreriamenu.h
+
+1700156917 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156737 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"TesoreriaMenu.h"
+	"AjustesMenu.h"
+
+1700140821 c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1700156499 source:c:\users\sebastian\desktop\juan\dev\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1700156500 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1698350998 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\cargarcadena.h
+
+1700140822 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1700003826 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1698350998 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700003742 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1700003866 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1700169688 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\cuota.h
+
+1698350998 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108898 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108876 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\fecha.h
+
+1700156530 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1701211290 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1701212572 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamo.h
+
+1699450630 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1698533526 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699999190 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700156558 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106228 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\programa.h
+
+1701212591 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1700495466 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1701214245 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700591864 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1700513080 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700777782 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1698350998 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\tesoreriamenu.h
+
+1698350998 source:c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\tesoreriamenu.cpp
+	<iostream>
+	"TesoreriaMenu.h"
+
+1700001622 source:c:\users\compaq\downloads\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 c:\users\compaq\downloads\sistema-de-prestamo-main\cuota.h
+
+1700156500 source:e:\utn\lab ii\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1698350998 e:\utn\lab ii\sistema-de-prestamo-main\cargarcadena.h
+
+1700140822 e:\utn\lab ii\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1700003826 e:\utn\lab ii\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 e:\utn\lab ii\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1698350998 e:\utn\lab ii\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700003742 e:\utn\lab ii\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:e:\utn\lab ii\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1700003866 source:e:\utn\lab ii\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:e:\utn\lab ii\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1700169688 source:e:\utn\lab ii\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:e:\utn\lab ii\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 e:\utn\lab ii\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 e:\utn\lab ii\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:e:\utn\lab ii\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 e:\utn\lab ii\sistema-de-prestamo-main\cuota.h
+
+1698350998 source:e:\utn\lab ii\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108896 source:e:\utn\lab ii\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108875 e:\utn\lab ii\sistema-de-prestamo-main\fecha.h
+
+1700156530 source:e:\utn\lab ii\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:e:\utn\lab ii\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 e:\utn\lab ii\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1700686423 e:\utn\lab ii\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1700763910 e:\utn\lab ii\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 e:\utn\lab ii\sistema-de-prestamo-main\prestamo.h
+
+1699450630 e:\utn\lab ii\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1698533526 e:\utn\lab ii\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699999190 e:\utn\lab ii\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700156558 source:e:\utn\lab ii\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 e:\utn\lab ii\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106227 source:e:\utn\lab ii\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 e:\utn\lab ii\sistema-de-prestamo-main\programa.h
+
+1700763902 source:e:\utn\lab ii\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1700495466 source:e:\utn\lab ii\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1700591864 source:e:\utn\lab ii\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 e:\utn\lab ii\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1700513080 source:e:\utn\lab ii\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:e:\utn\lab ii\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700777780 source:e:\utn\lab ii\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:e:\utn\lab ii\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 e:\utn\lab ii\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:e:\utn\lab ii\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1701205187 source:e:\utn\lab ii\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700686285 e:\utn\lab ii\sistema-de-prestamo-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700686285 d:\utn\lab ii\sistema-de-prestamo-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700686286 c:\users\juan\desktop\random\juan\utn\laboratorio ii\sistema-de-prestamo-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700686286 c:\users\compaq\downloads\sistema-de-prestamo-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700156500 source:e:\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1698350998 e:\sistema-de-prestamo-main\cargarcadena.h
+
+1700140822 e:\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1700003826 e:\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 e:\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1698350998 e:\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700003742 e:\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:e:\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1700003866 source:e:\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:e:\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1700169688 source:e:\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:e:\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 e:\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 e:\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:e:\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 e:\sistema-de-prestamo-main\cuota.h
+
+1698350998 source:e:\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108898 source:e:\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108876 e:\sistema-de-prestamo-main\fecha.h
+
+1700156530 source:e:\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:e:\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 e:\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1701211292 e:\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1701310344 e:\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 e:\sistema-de-prestamo-main\prestamo.h
+
+1699450630 e:\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1698533526 e:\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699999190 e:\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700686286 e:\sistema-de-prestamo-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700156558 source:e:\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 e:\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106228 source:e:\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 e:\sistema-de-prestamo-main\programa.h
+
+1700495466 source:e:\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1700591864 source:e:\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 e:\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1700513080 source:e:\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:e:\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700777782 source:e:\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:e:\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 e:\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:e:\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1701311861 source:e:\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1701311873 source:e:\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156500 source:d:\sistema-de-prestamo-main\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1698350998 d:\sistema-de-prestamo-main\cargarcadena.h
+
+1700140822 d:\sistema-de-prestamo-main\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1700003826 d:\sistema-de-prestamo-main\cliente.h
+	"Direccion.h"
+
+1698350998 d:\sistema-de-prestamo-main\direccion.h
+	<cstring>
+
+1698350998 d:\sistema-de-prestamo-main\clientearchivo.h
+	"Cliente.h"
+
+1700003742 d:\sistema-de-prestamo-main\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:d:\sistema-de-prestamo-main\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1700003866 source:d:\sistema-de-prestamo-main\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:d:\sistema-de-prestamo-main\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1700169688 source:d:\sistema-de-prestamo-main\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:d:\sistema-de-prestamo-main\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 d:\sistema-de-prestamo-main\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 d:\sistema-de-prestamo-main\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:d:\sistema-de-prestamo-main\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 d:\sistema-de-prestamo-main\cuota.h
+
+1698350998 source:d:\sistema-de-prestamo-main\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108898 source:d:\sistema-de-prestamo-main\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108876 d:\sistema-de-prestamo-main\fecha.h
+
+1700156530 source:d:\sistema-de-prestamo-main\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:d:\sistema-de-prestamo-main\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 d:\sistema-de-prestamo-main\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1701211292 d:\sistema-de-prestamo-main\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1701310344 d:\sistema-de-prestamo-main\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 d:\sistema-de-prestamo-main\prestamo.h
+
+1699450630 d:\sistema-de-prestamo-main\operacionarchivo.h
+	"Operacion.h"
+
+1698533526 d:\sistema-de-prestamo-main\prestamoarchivo.h
+	"Prestamo.h"
+
+1699999190 d:\sistema-de-prestamo-main\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700686286 d:\sistema-de-prestamo-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700156558 source:d:\sistema-de-prestamo-main\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 d:\sistema-de-prestamo-main\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106228 source:d:\sistema-de-prestamo-main\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 d:\sistema-de-prestamo-main\programa.h
+
+1701348564 source:d:\sistema-de-prestamo-main\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1700495466 source:d:\sistema-de-prestamo-main\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1700591864 source:d:\sistema-de-prestamo-main\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 d:\sistema-de-prestamo-main\operacionmenu.h
+	"OperacionManager.h"
+
+1700513080 source:d:\sistema-de-prestamo-main\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1698534200 source:d:\sistema-de-prestamo-main\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1700777782 source:d:\sistema-de-prestamo-main\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:d:\sistema-de-prestamo-main\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 d:\sistema-de-prestamo-main\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:d:\sistema-de-prestamo-main\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1701350527 source:d:\sistema-de-prestamo-main\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156500 source:d:\sistema-de-prestamo-main -cambio menu\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1698350998 d:\sistema-de-prestamo-main -cambio menu\cargarcadena.h
+
+1700140822 d:\sistema-de-prestamo-main -cambio menu\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1701355220 d:\sistema-de-prestamo-main -cambio menu\cliente.h
+	"Direccion.h"
+
+1698350998 d:\sistema-de-prestamo-main -cambio menu\direccion.h
+	<cstring>
+
+1701356507 d:\sistema-de-prestamo-main -cambio menu\clientearchivo.h
+	"Cliente.h"
+
+1701355565 d:\sistema-de-prestamo-main -cambio menu\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:d:\sistema-de-prestamo-main -cambio menu\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1701356163 source:d:\sistema-de-prestamo-main -cambio menu\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:d:\sistema-de-prestamo-main -cambio menu\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1701355611 source:d:\sistema-de-prestamo-main -cambio menu\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:d:\sistema-de-prestamo-main -cambio menu\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 d:\sistema-de-prestamo-main -cambio menu\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 d:\sistema-de-prestamo-main -cambio menu\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:d:\sistema-de-prestamo-main -cambio menu\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 d:\sistema-de-prestamo-main -cambio menu\cuota.h
+
+1698350998 source:d:\sistema-de-prestamo-main -cambio menu\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108898 source:d:\sistema-de-prestamo-main -cambio menu\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108876 d:\sistema-de-prestamo-main -cambio menu\fecha.h
+
+1700156530 source:d:\sistema-de-prestamo-main -cambio menu\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:d:\sistema-de-prestamo-main -cambio menu\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 d:\sistema-de-prestamo-main -cambio menu\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1701364240 d:\sistema-de-prestamo-main -cambio menu\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1701362545 d:\sistema-de-prestamo-main -cambio menu\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 d:\sistema-de-prestamo-main -cambio menu\prestamo.h
+
+1701362806 d:\sistema-de-prestamo-main -cambio menu\operacionarchivo.h
+	"Operacion.h"
+
+1701356582 d:\sistema-de-prestamo-main -cambio menu\prestamoarchivo.h
+	"Prestamo.h"
+
+1701356980 d:\sistema-de-prestamo-main -cambio menu\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700686286 d:\sistema-de-prestamo-main -cambio menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700156558 source:d:\sistema-de-prestamo-main -cambio menu\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 d:\sistema-de-prestamo-main -cambio menu\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106228 source:d:\sistema-de-prestamo-main -cambio menu\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 d:\sistema-de-prestamo-main -cambio menu\programa.h
+
+1701362722 source:d:\sistema-de-prestamo-main -cambio menu\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1701362833 source:d:\sistema-de-prestamo-main -cambio menu\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1701365712 source:d:\sistema-de-prestamo-main -cambio menu\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700591864 source:d:\sistema-de-prestamo-main -cambio menu\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1699455024 d:\sistema-de-prestamo-main -cambio menu\operacionmenu.h
+	"OperacionManager.h"
+
+1701356019 source:d:\sistema-de-prestamo-main -cambio menu\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1701356391 source:d:\sistema-de-prestamo-main -cambio menu\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1701356815 source:d:\sistema-de-prestamo-main -cambio menu\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:d:\sistema-de-prestamo-main -cambio menu\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 d:\sistema-de-prestamo-main -cambio menu\prestamomenu.h
+	"PrestamoManager.h"
+
+1700166178 source:d:\sistema-de-prestamo-main -cambio menu\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1700156500 source:d:\sistema-de-prestamo-main -ultima - cambio menu\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1698350998 d:\sistema-de-prestamo-main -ultima - cambio menu\cargarcadena.h
+
+1700140822 d:\sistema-de-prestamo-main -ultima - cambio menu\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1701355220 d:\sistema-de-prestamo-main -ultima - cambio menu\cliente.h
+	"Direccion.h"
+
+1698350998 d:\sistema-de-prestamo-main -ultima - cambio menu\direccion.h
+	<cstring>
+
+1701356507 d:\sistema-de-prestamo-main -ultima - cambio menu\clientearchivo.h
+	"Cliente.h"
+
+1701355565 d:\sistema-de-prestamo-main -ultima - cambio menu\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:d:\sistema-de-prestamo-main -ultima - cambio menu\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1701356163 source:d:\sistema-de-prestamo-main -ultima - cambio menu\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:d:\sistema-de-prestamo-main -ultima - cambio menu\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1701355611 source:d:\sistema-de-prestamo-main -ultima - cambio menu\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:d:\sistema-de-prestamo-main -ultima - cambio menu\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 d:\sistema-de-prestamo-main -ultima - cambio menu\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 d:\sistema-de-prestamo-main -ultima - cambio menu\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:d:\sistema-de-prestamo-main -ultima - cambio menu\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 d:\sistema-de-prestamo-main -ultima - cambio menu\cuota.h
+
+1698350998 source:d:\sistema-de-prestamo-main -ultima - cambio menu\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108898 source:d:\sistema-de-prestamo-main -ultima - cambio menu\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108876 d:\sistema-de-prestamo-main -ultima - cambio menu\fecha.h
+
+1700156530 source:d:\sistema-de-prestamo-main -ultima - cambio menu\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:d:\sistema-de-prestamo-main -ultima - cambio menu\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 d:\sistema-de-prestamo-main -ultima - cambio menu\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1701364240 d:\sistema-de-prestamo-main -ultima - cambio menu\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1701362545 d:\sistema-de-prestamo-main -ultima - cambio menu\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 d:\sistema-de-prestamo-main -ultima - cambio menu\prestamo.h
+
+1701362806 d:\sistema-de-prestamo-main -ultima - cambio menu\operacionarchivo.h
+	"Operacion.h"
+
+1701356582 d:\sistema-de-prestamo-main -ultima - cambio menu\prestamoarchivo.h
+	"Prestamo.h"
+
+1701356980 d:\sistema-de-prestamo-main -ultima - cambio menu\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700686286 d:\sistema-de-prestamo-main -ultima - cambio menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700156558 source:d:\sistema-de-prestamo-main -ultima - cambio menu\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 d:\sistema-de-prestamo-main -ultima - cambio menu\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106228 source:d:\sistema-de-prestamo-main -ultima - cambio menu\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 d:\sistema-de-prestamo-main -ultima - cambio menu\programa.h
+
+1701362722 source:d:\sistema-de-prestamo-main -ultima - cambio menu\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1701362833 source:d:\sistema-de-prestamo-main -ultima - cambio menu\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1701367983 source:d:\sistema-de-prestamo-main -ultima - cambio menu\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1701367118 source:d:\sistema-de-prestamo-main -ultima - cambio menu\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1701366850 d:\sistema-de-prestamo-main -ultima - cambio menu\operacionmenu.h
+	"OperacionManager.h"
+
+1701356019 source:d:\sistema-de-prestamo-main -ultima - cambio menu\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1701356391 source:d:\sistema-de-prestamo-main -ultima - cambio menu\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1701356815 source:d:\sistema-de-prestamo-main -ultima - cambio menu\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:d:\sistema-de-prestamo-main -ultima - cambio menu\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 d:\sistema-de-prestamo-main -ultima - cambio menu\prestamomenu.h
+	"PrestamoManager.h"
+
+1701367005 source:d:\sistema-de-prestamo-main -ultima - cambio menu\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+
+1700156500 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\ajustesmenu.cpp
+	<iostream>
+	"CargarCadena.h"
+	"AjustesMenu.h"
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\cargarcadena.h
+
+1700140822 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\ajustesmenu.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+
+1701355220 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\cliente.h
+	"Direccion.h"
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\direccion.h
+	<cstring>
+
+1701356507 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\clientearchivo.h
+	"Cliente.h"
+
+1701355565 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+	<string>
+	<iomanip>
+
+1698350998 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\cargarcadena.cpp
+	<iostream>
+	"CargarCadena.h"
+
+1701356163 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\cliente.cpp
+	<iostream>
+	"CargarCadena.h"
+	"Cliente.h"
+
+1700004266 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\clientearchivo.cpp
+	<iostream>
+	<clocale>
+	"ClienteArchivo.h"
+
+1701355611 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\clientemanager.cpp
+	"ClienteManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1700156516 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+	"ListarClienteMenu.h"
+
+1698350998 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\clientemenu.h
+	"ClienteManager.h"
+
+1699461852 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\listarclientemenu.h
+	"ClienteManager.h"
+
+1700001622 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\cuota.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	"Cuota.h"
+
+1699755768 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\cuota.h
+
+1698350998 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+	"CargarCadena.h"
+
+1701108898 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1701108876 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\fecha.h
+
+1700156530 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\listarclientesmenu.cpp
+	<iostream>
+	"ListarClienteMenu.h"
+
+1700515326 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\listaroperacionmenu.cpp
+	<iostream>
+	"ListarOperacionMenu.h"
+
+1699454480 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\listaroperacionmenu.h
+	"OperacionManager.h"
+
+1701364240 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacionmanager.h
+	"Operacion.h"
+	"OperacionArchivo.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"ClienteManager.h"
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	"PrestamoManager.h"
+	<cstring>
+	"rlutil.h"
+
+1701362545 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacion.h
+	"Fecha.h"
+	"Prestamo.h"
+
+1700513080 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamo.h
+
+1701362806 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacionarchivo.h
+	"Operacion.h"
+
+1701356582 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamoarchivo.h
+	"Prestamo.h"
+
+1701356980 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamomanager.h
+	"Prestamo.h"
+	"PrestamoArchivo.h"
+	<cstring>
+	<iomanip>
+
+1700686286 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700156558 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\listarprestamomenu.cpp
+	<iostream>
+	"ListarPrestamoMenu.h"
+
+1699451812 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\listarprestamomenu.h
+	"PrestamoManager.h"
+
+1701106228 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\main.cpp
+	<iostream>
+	"Programa.h"
+
+1700137446 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\programa.h
+
+1701362722 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacion.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Operacion.h"
+	"Prestamo.h"
+
+1701362833 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacionarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"OperacionArchivo.h"
+
+1701368817 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacionmanager.cpp
+	"OperacionManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1701367118 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacionmenu.cpp
+	<iostream>
+	"OperacionMenu.h"
+	"ListarOperacionMenu.h"
+
+1701366850 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\operacionmenu.h
+	"OperacionManager.h"
+
+1701356019 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamo.cpp
+	<iostream>
+	<iomanip>
+	"CargarCadena.h"
+	"Prestamo.h"
+	"Cuota.h"
+
+1701356391 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamoarchivo.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"PrestamoArchivo.h"
+
+1701356815 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamomanager.cpp
+	"PrestamoManager.h"
+	"CargarCadena.h"
+	<iostream>
+	<cstring>
+
+1700156588 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamomenu.cpp
+	<iostream>
+	"PrestamoMenu.h"
+	"ListarPrestamoMenu.h"
+
+1698540236 d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\prestamomenu.h
+	"PrestamoManager.h"
+
+1701367005 source:d:\utn\lab ii\sistema-de-prestamo-main -ultima - cambio menu\programa.cpp
+	<iostream>
+	"Programa.h"
+	"ClienteMenu.h"
+	"OperacionMenu.h"
+	"PrestamoMenu.h"
+	"AjustesMenu.h"
+

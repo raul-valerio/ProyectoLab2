@@ -1,0 +1,4 @@
+Trabajo final realizado en el lenguaje C++ para la catedra de Laboratorio de Computación II. 
+Para utilizar el trabajo se utilizó conceptos de POO (orientación a objetos) y archivos.
+El programa simula un sistema de gestión de préstamos. 
+Nota final: 8.

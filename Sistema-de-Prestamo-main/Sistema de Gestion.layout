@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="OperacionArchivo.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="298" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="PrestamoArchivo.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2760" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="17" />
+			<Collapse line="29" />
+			<Collapse line="47" />
+			<Collapse line="66" />
+			<Collapse line="78" />
+			<Collapse line="92" />
+		</Folding>
+	</File>
+	<File name="CargarCadena.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OperacionArchivo.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2630" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="16" />
+			<Collapse line="28" />
+			<Collapse line="46" />
+			<Collapse line="65" />
+			<Collapse line="77" />
+			<Collapse line="91" />
+		</Folding>
+	</File>
+	<File name="ListarOperacionMenu.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="506" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="PrestamoArchivo.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="281" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Operacion.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1135" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="Prestamo.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1122" topLine="21" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="13" />
+			<Collapse line="17" />
+			<Collapse line="21" />
+			<Collapse line="25" />
+			<Collapse line="29" />
+			<Collapse line="42" />
+			<Collapse line="47" />
+			<Collapse line="51" />
+			<Collapse line="55" />
+			<Collapse line="59" />
+			<Collapse line="63" />
+			<Collapse line="67" />
+			<Collapse line="71" />
+			<Collapse line="75" />
+			<Collapse line="80" />
+		</Folding>
+	</File>
+	<File name="Operacion.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3451" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="13" />
+			<Collapse line="17" />
+			<Collapse line="21" />
+			<Collapse line="25" />
+			<Collapse line="29" />
+			<Collapse line="34" />
+			<Collapse line="41" />
+			<Collapse line="63" />
+			<Collapse line="78" />
+			<Collapse line="82" />
+			<Collapse line="87" />
+			<Collapse line="93" />
+			<Collapse line="97" />
+			<Collapse line="107" />
+			<Collapse line="113" />
+			<Collapse line="117" />
+			<Collapse line="121" />
+			<Collapse line="125" />
+			<Collapse line="129" />
+			<Collapse line="133" />
+			<Collapse line="141" />
+			<Collapse line="145" />
+			<Collapse line="149" />
+			<Collapse line="153" />
+			<Collapse line="157" />
+			<Collapse line="169" />
+			<Collapse line="173" />
+			<Collapse line="177" />
+			<Collapse line="186" />
+			<Collapse line="191" />
+		</Folding>
+	</File>
+	<File name="ListarPrestamoMenu.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="782" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="Cuota.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="69" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OperacionManager.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="833" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="ClienteManager.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13583" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="139" />
+			<Collapse line="156" />
+			<Collapse line="162" />
+			<Collapse line="174" />
+			<Collapse line="187" />
+			<Collapse line="199" />
+			<Collapse line="216" />
+			<Collapse line="251" />
+			<Collapse line="283" />
+			<Collapse line="354" />
+			<Collapse line="367" />
+			<Collapse line="380" />
+			<Collapse line="394" />
+			<Collapse line="408" />
+			<Collapse line="422" />
+			<Collapse line="436" />
+			<Collapse line="450" />
+			<Collapse line="464" />
+			<Collapse line="481" />
+		</Folding>
+	</File>
+	<File name="CargarCadena.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cliente.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="906" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Fecha.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3220" topLine="113" />
+		</Cursor>
+	</File>
+	<File name="ClienteManager.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="155" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="152" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cliente.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="87" topLine="30" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="10" />
+			<Collapse line="14" />
+			<Collapse line="18" />
+			<Collapse line="22" />
+			<Collapse line="26" />
+			<Collapse line="30" />
+			<Collapse line="34" />
+			<Collapse line="62" />
+			<Collapse line="66" />
+			<Collapse line="71" />
+			<Collapse line="75" />
+			<Collapse line="79" />
+			<Collapse line="83" />
+			<Collapse line="87" />
+			<Collapse line="91" />
+			<Collapse line="95" />
+			<Collapse line="99" />
+			<Collapse line="103" />
+			<Collapse line="108" />
+		</Folding>
+	</File>
+	<File name="OperacionMenu.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cuota.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="790" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="Prestamo.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="517" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="ListarClienteMenu.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="AjustesMenu.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="259" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ListarOperacionMenu.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="95" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Programa.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2529" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="Fecha.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="428" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="PrestamoManager.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5313" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="104" />
+			<Collapse line="138" />
+			<Collapse line="149" />
+			<Collapse line="155" />
+			<Collapse line="168" />
+			<Collapse line="183" />
+			<Collapse line="195" />
+			<Collapse line="212" />
+			<Collapse line="247" />
+			<Collapse line="279" />
+			<Collapse line="326" />
+			<Collapse line="339" />
+			<Collapse line="352" />
+			<Collapse line="366" />
+		</Folding>
+	</File>
+	<File name="Direccion.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="407" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ListarPrestamoMenu.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="OperacionManager.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17408" topLine="19" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="164" />
+			<Collapse line="220" />
+			<Collapse line="246" />
+			<Collapse line="251" />
+			<Collapse line="263" />
+			<Collapse line="275" />
+			<Collapse line="287" />
+			<Collapse line="303" />
+			<Collapse line="339" />
+			<Collapse line="376" />
+			<Collapse line="422" />
+			<Collapse line="428" />
+			<Collapse line="435" />
+			<Collapse line="464" />
+			<Collapse line="482" />
+			<Collapse line="619" />
+			<Collapse line="658" />
+			<Collapse line="702" />
+			<Collapse line="719" />
+			<Collapse line="779" />
+		</Folding>
+	</File>
+	<File name="OperacionMenu.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1778" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="AjustesMenu.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4058" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ClienteMenu.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="846" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+		</Folding>
+	</File>
+	<File name="PrestamoManager.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="222" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="ClienteArchivo.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="205" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ListarClientesMenu.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="708" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="PrestamoMenu.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="70" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Direccion.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="420" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="ClienteArchivo.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="347" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="15" />
+			<Collapse line="27" />
+			<Collapse line="45" />
+			<Collapse line="64" />
+			<Collapse line="76" />
+			<Collapse line="89" />
+		</Folding>
+	</File>
+	<File name="PrestamoMenu.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="867" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="ClienteMenu.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="44" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Programa.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="175" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
